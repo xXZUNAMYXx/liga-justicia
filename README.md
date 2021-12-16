@@ -8,4 +8,5 @@ Pueden hacer lo que quieran...
 Aplicando cambios desde GitHub
 + Hola mundo desde GitHub
 
-## Cambios desde local
+## Cambios desde local y estos son nuevos desde GitHub
+
